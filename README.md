@@ -1,4 +1,5 @@
-Hey Alfred - microWakeWord Models
+# Hey Alfred - microWakeWord Models
+
 This repository contains two custom-trained wake word models for the phrase "Hey Alfred." These models are designed for use with ESPHome and the microWakeWord component.
 
 Models
