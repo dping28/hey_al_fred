@@ -6,6 +6,7 @@ Models
 There are two versions of the model available. Version 2 is the recommended model for use.
 
 ***Version 1: hey_al_fred***
+
 This is the original model and was created using the standard, default settings provided in the MicroWakeWord-Trainer-Docker project. It serves as a good baseline but may be less optimized than Version 2.
 
 Training: Default project settings.
@@ -13,6 +14,7 @@ Training: Default project settings.
 Files: `hey_al_fred.tflite` and `hey_al_fred.json`.
 
 ***Version 2: hey_al_fred_v2 (Recommended)***
+
 This model was trained with specific custom settings to improve performance and stability. The key adjustments were made to ensure the model trained successfully without errors.
 
 Training: This version was trained for 80,000 steps for more robust learning.
