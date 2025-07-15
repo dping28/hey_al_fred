@@ -25,5 +25,6 @@ Model Structure: The model's internal "listening window" (its kernel sizes) was 
 
 Files: `hey_al_fred_v2.tflite` and `hey_al_fred_v2.json`.
 
-How to Use
+# How to Use
+
 To use these models, you will need to add the .tflite and .json files to your ESPHome configuration. Please refer to the official ESPHome microWakeWord documentation for instructions on how to integrate a custom model.
